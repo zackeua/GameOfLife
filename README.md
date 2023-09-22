@@ -23,6 +23,21 @@ Run the program as follows:
 
         ./game <height> <width> <random seed> <timesteps> <graphics> <number of threads>
 
+
+### CUDA implementation
+To run the CUDA implementation navigate to
+
+        src/CUDA/
+
+and run
+
+        make
+
+to compile the program.
+Run the program as follows:
+
+        ./game <height> <width> <random seed> <timesteps> <graphics>
+
 ### The python implementations
 To rn the python implementations navigate to
 
